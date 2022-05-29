@@ -1,4 +1,3 @@
-//middle ware
-let middleware = ()=>{
-    return "middleware";
+let middleWare = ()=>{
+  return 'Vishnu'
 }
